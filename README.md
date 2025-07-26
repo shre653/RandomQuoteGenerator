@@ -7,7 +7,7 @@ Built using **HTML**, **CSS**, and **JavaScript** 💻✨
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png) <!-- (Optional: Add screenshot later) -->
+![Screenshot](Screenshot.png) <!-- (Optional: Add screenshot later) -->
 
 ---
 
